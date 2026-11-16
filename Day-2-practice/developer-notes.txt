@@ -1,0 +1,8 @@
+Project Odyssey
+Day 2 - Developer Notes
+
+i am learning hoe to use the window terminal.
+i understand files, folders, and file paths.
+i am practicing PowerShell commands.
+
+My goal is to become a professional software engineer.
