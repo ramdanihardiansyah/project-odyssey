@@ -19,3 +19,7 @@ This repository contains my learning journey, practice exercises and software en
 - Day 1: Development enviroment setup
 - Day 2: Windows terminal fundamentals
 - Day 3: Git and Github FUndamentals
+
+## My First Git Change
+
+i have succesfully created my first Git repository
